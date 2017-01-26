@@ -5,5 +5,5 @@
 2. the course [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - finished. [Results](screenshots/udacity_git.png)
 
 3. [learngitbranching](http://learngitbranching.js.org/) - done. Results:
--[main](screenshots/learngitbranching_main.png)
--[remote](screenshots/learngitbranching_remote.png)
+	- [main](screenshots/learngitbranching_main.png)
+	- [remote](screenshots/learngitbranching_remote.png)
