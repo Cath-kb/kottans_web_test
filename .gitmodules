@@ -1,3 +1,3 @@
 [submodule "task_2/trivia"]
 	path = task_2/trivia
-	url = ./../trivia
+	url = https://github.com/Cath-kb/trivia.git
